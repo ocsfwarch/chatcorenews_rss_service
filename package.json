@@ -1,0 +1,16 @@
+{
+  "name": "chatcorenews_rss_service",
+  "version": "1.0.0",
+  "description": "rss feed parsing service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hash-code": "^1.0.1",
+    "mysql": "^2.17.1",
+    "rss-parser": "^3.7.2"
+  }
+}
